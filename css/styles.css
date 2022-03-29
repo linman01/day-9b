@@ -55,7 +55,7 @@ nav a:hover {
  .hero {
 	 border: 1px solid black;
 	 background-color: gainsboro;
-	 background-image: url('img/fabian-quintero-UWQP2mh5YJI-unsplash.jpg');
+	 background-image: url('./img/fabian-quintero-UWQP2mh5YJI-unsplash.jpg');
 	 height: 400px;
 	 background-position: bottom right;
  }
@@ -87,7 +87,7 @@ nav a:hover {
 
 .col-two {
 	background-color: gainsboro;
-	background-image: url('img/beach-sunset.jpg');
+	background-image: url('./img/beach-sunset.jpg');
 }
 
 .text-back {
